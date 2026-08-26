@@ -52,7 +52,7 @@ Blanchette756@github
 
 <h2 align="center"> 🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
 <div align="center">
-  <img src="Redhood_2.jpg" 
+  <img src="RedHood_2.jpg" 
     align="left" 
     width="300" 
     height="auto">
