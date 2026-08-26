@@ -1,0 +1,11 @@
+# AI Usage Log
+**Mata Kuliah:** Pemrograman Web  
+**Nama:** Rizky Rahmad Dani  
+**NPM:** 2440304001  
+**Tugas:** Modul 01 - Analisis Request-Response dan Setup Repository  
+
+| Tanggal | Tujuan Penggunaan AI | Prompt Ringkas | Hasil | Verifikasi | Keputusan Mahasiswa |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 27 Agustus 2026 | Memahami instruksi pembagian tugas antara analisis web publik dan penggunaan server lokal (Laragon). | "Apa maksud dari instruksi menggunakan web layanan publik dan Laragon? Mengapa keduanya dipisah?" | AI memberikan penjelasan terstruktur mengenai perbedaan fungsi web publik untuk observasi jaringan dan Laragon untuk pondasi repositori lokal. | Membaca ulang modul praktikum bagian F (Tugas OBE) dan mencocokkannya dengan penjelasan AI. | Penjelasan diterima. Membantu memperjelas alur kerja bahwa Laragon tetap wajib di-_screenshot_ sebagai bukti _setup environment_. |
+| 27 Agustus 2026 | Memeriksa kebenaran dan format analisis _request-response_ dari situs akademik kampus. | "Tolong periksa draf analisis request-response dari akademik.ubt.ac.id ini, apakah sudah benar?" | AI mengonfirmasi bahwa parameter Method, Status Code, Content-Type, dan Fungsi dari 5 aset (Doc, CSS, JS, SVG, WOFF2) sudah akurat. | Mencocokkan kembali data _Headers_ pada tabel analisis dengan tangkapan layar _Network tab_ asli dari peramban. | Hasil analisis dipertahankan tanpa perubahan mendasar karena sudah divalidasi kebenarannya sesuai standar tugas. |
+| 27 Agustus 2026 | Menyempurnakan tata bahasa dan struktur tulisan untuk bagian Refleksi Mahasiswa. | "Bantu perbaiki tata bahasa pada draf refleksi ini agar menjadi format paragraf formal dan memasukkan hasil analisis HTTP." | AI menyusun ulang poin-poin refleksi kasar menjadi empat paragraf naratif baku yang mencakup detail teknis _request-response_. | Membaca hasil susunan AI dan memastikannya tetap merepresentasikan pemahaman, kendala, dan bukti asli yang dialami selama praktikum. | Teks refleksi hasil penyempurnaan diadopsi sepenuhnya untuk dimasukkan ke dalam dokumen laporan akhir. |
