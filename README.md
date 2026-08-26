@@ -27,8 +27,6 @@ Blanchette756@github
 
 <br>
 
-# 📄 Laporan Tugas 1: Analisis Request-Response dan Setup Repository
-
 | Field | Keterangan |
 |---|---|
 | **Nama** | Rizky Rahmad Dani |
