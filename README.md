@@ -25,7 +25,9 @@ Blanchette756@github
 ```
 </p>
 
-<br>
+<br clear="both">
+
+## 🪪 Identitas Mahasiswa
 
 | Field | Keterangan |
 |---|---|
@@ -33,6 +35,8 @@ Blanchette756@github
 | **NPM** | 2440304001 |
 | **Mata Kuliah** | Pemrograman Web |
 | **Program Studi** | Teknik Komputer — Universitas Borneo Tarakan |
+
+<br>
 
 ---
 
