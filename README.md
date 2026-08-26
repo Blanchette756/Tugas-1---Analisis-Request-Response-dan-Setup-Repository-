@@ -92,7 +92,7 @@ AI dimanfaatkan untuk membantu penyusunan draf dokumentasi (`README.md`), pencat
     <td valign="top" width="50%">
       <h3>📗 Tugas</h3>
       <ul>
-        <li><i>(Repositori tugas belum tersedia saat ini)</i></li>
+        <li>Pemrograman Web: <a href="https://github.com/Blanchette756/Tugas-1---Analisis-Request-Response-dan-Setup-Repository-.git">Modul 01 - Arsitektur Web & Git</a></li>
       </ul>
     </td>
   </tr>
@@ -110,8 +110,6 @@ AI dimanfaatkan untuk membantu penyusunan draf dokumentasi (`README.md`), pencat
 <p align="center">
   Terkait keperluan akademik atau diskusi lebih lanjut, silakan hubungi saya
   <br>
-  <br>
-  ❀˚✿˖°❀˖°✿˖❀˖°
   <br>
 </p>
 
